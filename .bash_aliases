@@ -4,7 +4,7 @@ alias la='ls -a --color=auto'
 alias ll='ls -lhaG --color=auto'
 
 # Clear
-alias cc='clear'
+alias cs='clear'
 
 # Change Directories
 alias home='cd ~'
