@@ -1,1 +1,1 @@
-# Bash aliases
+# dotfiles
